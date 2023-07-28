@@ -1,4 +1,4 @@
-# Lecture 1:Introduction of Deep Learning
+# Lecture 1: Introduction of Deep Learning
 
 ## Machine learning $\approx$ **looking for function**
     
