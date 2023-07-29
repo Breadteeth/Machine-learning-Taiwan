@@ -32,7 +32,16 @@ Loss: $L = \frac{1}{N}\sum_{n}e_{n}$
 关于e有2种计算方式：MAE & MSE  
 *MAE*: mean absolute error, $e = |y - \hat{y}|$  
 *MSE*: mean square error, $e = (y - \hat{y})^2$  
+真实数据又叫做label  
+Error Surface: b-w的“等高线图”，“高度”代表对应的预测值y  
+3. Optimization   
+   寻找使得y最小的参数w和b  
+   Gradient Descent的步骤？缺点？  
+   learning rate $η$; hyperparameter(人为设置的参数)  
+   Local minima/ Global minima的问题？
+  
 
+以上三步其实叫做training
 
 
     
