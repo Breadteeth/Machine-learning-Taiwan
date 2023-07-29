@@ -41,7 +41,11 @@ Error Surface: b-w的“等高线图”，“高度”代表对应的预测值y
    Local minima/ Global minima的问题？
   
 
-以上三步其实叫做training
+以上三步其实叫做training  
+
+线性模型 有 Model Bias 
+
+
 
 
     
